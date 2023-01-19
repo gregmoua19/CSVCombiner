@@ -5,6 +5,8 @@ Write a command line program that takes several CSV files as arguments. Each CSV
 ## To Run:
 
 navigate **into src folder** and run these commands
+```js
+javac combiner.java  
 
-javac combiner.java
 java combiner.java ./fixtures/accessories.csv ./fixtures/clothing.csv ./fixtures/household_cleaners.csv
+```
