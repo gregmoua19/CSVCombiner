@@ -6,4 +6,4 @@ Write a command line program that takes several CSV files as arguments. Each CSV
 
 Install, navigate to directory in command line and run
 
-<clipboard-copy value="src/index.js">Test</clipboard-copy>
+<script type="module" src="./node_modules/@github/clipboard-copy-element/dist/index.js">
